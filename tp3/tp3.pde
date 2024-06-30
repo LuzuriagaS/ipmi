@@ -1,3 +1,8 @@
+// Pablo luzuriaga
+// Comision 3
+// https://youtu.be/0USrQH-U77U
+
+
 PImage imagen;
 int clickeado;
 void setup() {
